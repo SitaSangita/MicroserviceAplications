@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: 09-Greet-MS
+  boot:
+    admin:
+      client:
+        instance:
+          health-url: http://localhost:1111/
+server:
+  port: 9595

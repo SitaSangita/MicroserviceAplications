@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: 09-Greet-MS
+server:
+  port: 9595
